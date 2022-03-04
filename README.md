@@ -40,9 +40,11 @@
  
 
  <a href="https://t.me/elias_segura">
-   <img   alt="Elias Segura | Telegram" width="22px" src="https://image.flaticon.com/icons/png/512/123/123726.png?w=740"  /> 
+   <img   alt="Elias Segura | Telegram" src="https://img.shields.io/badge/Telegram-000?logo=telegram&logoColor=26A5E4&style=ShieldStyle" /> 
 </a>
- 
+  <a href="https://www.linkedin.com/in/eliassegura/">
+   <img   alt="Elias Segura | LinkedIn" src="https://img.shields.io/badge/LinkedIn-000?logo=LinkedIn&logoColor=0A66C2&style=ShieldStyle" /> 
+</a>
 <hr>
 
  
