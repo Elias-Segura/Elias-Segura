@@ -1,15 +1,14 @@
 <h2> Hi, I'm Elias Segura! <img src="https://media.giphy.com/media/R03zWv5p1oNSQd91EP/giphy.gif" width="50"></h2>
  
- > Software Engineering  Student at [UNA](https://www.una.ac.cr/)
+ > Software Engineering
+ 
  
  <h2> About me</h2>
  
  
-- I’m currently learning :
-  - Improving my React Native skills.
  
 -  I like photography  
--  How to reach me **elias.segura.villegas@est.una.ac.cr**
+-  How to reach me **segura.villegas.elias@gmail.com**
  &nbsp;
  
  
